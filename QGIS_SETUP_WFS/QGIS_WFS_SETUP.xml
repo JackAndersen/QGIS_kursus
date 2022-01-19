@@ -1,0 +1,18 @@
+<!DOCTYPE connections>
+<qgsWFSConnections version="1.0">
+    <wfs password="" referer="" username="" url="http://webgis-a.le34.dk/cgi-bin/mapserv.exe?&amp;map=c:/www/html/intragis/1/ws_mapfile.map" name="Centralt husdyrbrugsregister og Veterinært beredskab"/>
+    <wfs password="" referer="" username="" url="http://arealinformation.miljoeportal.dk/gis/services/public/MapServer/WFSServer" name="Danmarks Arealinformation på Miljøportalen"/>
+    <wfs password="" referer="" username="" url="http://ndgishub.nd.gov/arcgis/services/Features/Geology/MapServer/WFSServer" name="ESRI - NDGISHUB_WFS_Geology"/>
+    <wfs password="" referer="" username="" url="http://geuskort.geus.dk/McPortal/wfs" name="GEUS Grundvandsanalyser"/>
+    <wfs password="" referer="" username="" url="http://www.kulturarv.dk/ffpublic/wfs" name="Kulturarvstyrelsen - Fund og Fortidsminder"/>
+    <wfs password="" referer="" username="" url="http://gis2.metc.state.mn.us/ArcGIS/services/MetroGIS/Base_maps_scanned_maps/MapServer/WFSServer" name="MetroGIS_Base_maps_scanned_maps"/>
+    <wfs password="" referer="" username="" url="http://gis2.metc.state.mn.us/ArcGIS/services/MetroGIS/Water_Resources/MapServer/WFSServer" name="MetroGIS_Water_Resources"/>
+    <wfs password="" referer="" username="" url="http://geodata.nationaalgeoregister.nl/nationaleparken/wfs" name="NationaleParken"/>
+    <wfs password="" referer="" username="" url="https://kortdata.fvm.dk/geoserver/NESTOffentlig/wfs?request=getcapabilities" name="Natur- Erhvervstyrelsen"/>
+    <wfs password="" referer="" username="" url="http://ows.terrestris.de/geoserver/osm/wfs?version=1.1.0&amp;" name="Open Street Map - Europa, farve, Busstop, Bar, Landegrænser, floder"/>
+    <wfs password="" referer="" username="" url="http://geoserver.surfacewater.miljoeportal.dk/geoserver/ows?" name="Overfladevand på Miljøportalen"/>
+    <wfs password="" referer="" username="" url="http://geoservice.plansystem.dk/wfs" name="PlansystemDK - Planer efter Planloven"/>
+    <wfs password="" referer="" username="" url="http://rsg.pml.ac.uk/wfs" name="Plymouth Marine Laboratory Remote Sensing Group GeoServer Web Feature Service"/>
+    <wfs password="" referer="" username="" url="http://www2.landgate.wa.gov.au/ows/wfspublic_4326/wfs" name="SLIP Public Web Feature Service - EPSG:4326"/>
+    <wfs password="" referer="" username="" url="http://kortforsyningen.kms.dk/service?servicename=vandplan2011&amp;client=MapInfo&amp;login=vand&amp;password=vand" name="Vandplaner 2011"/>
+</qgsWFSConnections>
