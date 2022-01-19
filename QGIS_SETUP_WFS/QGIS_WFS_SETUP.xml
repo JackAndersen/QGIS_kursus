@@ -14,5 +14,4 @@
     <wfs password="" referer="" username="" url="http://geoservice.plansystem.dk/wfs" name="PlansystemDK - Planer efter Planloven"/>
     <wfs password="" referer="" username="" url="http://rsg.pml.ac.uk/wfs" name="Plymouth Marine Laboratory Remote Sensing Group GeoServer Web Feature Service"/>
     <wfs password="" referer="" username="" url="http://www2.landgate.wa.gov.au/ows/wfspublic_4326/wfs" name="SLIP Public Web Feature Service - EPSG:4326"/>
-    <wfs password="" referer="" username="" url="http://kortforsyningen.kms.dk/service?servicename=vandplan2011&amp;client=MapInfo&amp;login=vand&amp;password=vand" name="Vandplaner 2011"/>
 </qgsWFSConnections>
